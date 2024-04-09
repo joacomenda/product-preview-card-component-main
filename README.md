@@ -52,7 +52,7 @@ I need to learn more about making responsive designs and to center better the co
 
 ### Useful resources
 
-- [Example resource 1](https://www.youtube.com/watch?v=srvUrASNj0s&t=4301s) - This helped me to understand the basics of responsive designs and how flexbox actually works
+- [Introduction To Responsive Web Design - HTML & CSS Tutorial](https://www.youtube.com/watch?v=srvUrASNj0s&t=4301s) - This helped me to understand the basics of responsive designs and how flexbox actually works
 
 ## Author
 
